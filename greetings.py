@@ -13,5 +13,5 @@ def banner():
 if __name__ == "__main__":
     banner()
     # --- ADD YOUR GREETING BELOW THIS LINE ---
-    #leighi print statement
+    #leighi print statement as the first greeting
     print("Hello, World! from leighi")
